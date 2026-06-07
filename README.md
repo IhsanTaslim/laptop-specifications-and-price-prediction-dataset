@@ -27,4 +27,4 @@ What influences laptop price point?
 (explanation)
 
 ## Authors 
-[MuhammadMusharraf](https://github.com/Muhammad-Musharraf)
+Muhammad Musharraf - *Data Provider* - [MuhammadMusharraf](https://github.com/Muhammad-Musharraf)
