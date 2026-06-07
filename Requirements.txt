@@ -1,0 +1,5 @@
+Pandas==2.3.3
+NumPy==2.4.2
+Matplotlib.pyplot==3.10.8
+Statsmodels==0.14.6
+ISLP==0.4.1
