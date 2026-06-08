@@ -14,6 +14,8 @@ What influences laptop price point?
 - Pandas
 - NumPy
 - Matplotlib
+- Statsmodels
+- Sklearn
 
 ## Methodology
 
