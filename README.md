@@ -83,15 +83,21 @@
 
 ├── Data/
 
-│   ├── laptop\_data.csv #raw Data
+│   ├── laptop\_data.csv   #raw Data
 
-│   └── sub\_laptop.csv #final transformed data
+│   └── sub\_laptop.csv    #final transformed data
 
 ├── Data/
 
 │   ├── .ipynb\_checkpoints/
 
 │   └── laptop\_price\_prediction.ipynb
+
+├── Presentation Deck/                #Report of findings geared towards non-technical user  
+
+│   ├── Laptop Data Price Prediction.pdf 
+
+│   └── Laptop Data Price Prediction.pptx
 
 ├── Visuals/
 
