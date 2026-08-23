@@ -82,48 +82,26 @@
 ## Repository Structure
 
 ├── Data/
-
 │   ├── laptop\_data.csv   #raw Data
-
 │   └── sub\_laptop.csv    #final transformed data
-
 ├── Data/
-
 │   ├── .ipynb\_checkpoints/
-
 │   └── laptop\_price\_prediction.ipynb
-
 ├── Presentation Deck/
-
 │   ├── Laptop Data Price Prediction.pdf
-
 │   └── Laptop Data Price Prediction.pptx
-
 ├── Visuals/
-
 │   ├── Actual vs. Predicted Laptop Prices (Test Set).png
-
 │   ├── Correlation of Features with Price (Targeted Heatmap).png
-
 │   ├── Full\_Laptop\_Correlation\_Heatmap.png
-
 │   ├── Laptop Manufacturer Distribution.png
-
 │   ├── Laptop Operation System Distribution.png
-
 │   ├── Laptop Price Distribution.png
-
 │   ├── Laptop Type Distribution.png
-
 │   ├── Multiple Linear Regression Results (Scaled).png
-
 │   └── Relationship between Ram and Price.png
-
 ├── README.md
-
 └── Requirements.md #list of libraries version
-
-
 
 ## Authors
 
