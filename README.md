@@ -93,9 +93,9 @@
 
 │   └── laptop\_price\_prediction.ipynb
 
-├── Presentation Deck/                #Report of findings geared towards non-technical user  
+├── Presentation Deck/
 
-│   ├── Laptop Data Price Prediction.pdf 
+│   ├── Laptop Data Price Prediction.pdf
 
 │   └── Laptop Data Price Prediction.pptx
 
